@@ -1,0 +1,12 @@
+{
+  "name": "jesker-browser",
+  "version": "0.1.0",
+  "description": "Jesker browser prototype (simple electron shell)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
